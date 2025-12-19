@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [armincordic.netlify.app](https://armincordic.netlify.app)
 
-- 📫 Reach me at **armin.cordic@outlook.com**
+- 📫 Reach me at **armincordic@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
