@@ -45,4 +45,4 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=armincordic&show_icons=true&locale=en" alt="armincordic" /></p>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=armincordic&" alt="armincordic" /></p>
+![GitHub Streak](https://streak-stats.demolab.com?user=armincordic&theme=default&hide_border=false)
